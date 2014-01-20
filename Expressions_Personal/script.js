@@ -1,8 +1,8 @@
-//Ebony Hayward 01-19-14 Expressions_Personal
+//Ebony Hayward 01-19-14 Expressions_Wacky
 
-var water = prompt("We are going to see how many bottled waters you drink in a day.  \nPlease insert the number of bottles you started with");
+var men = prompt("We are going to see many men it takes to install a light bulb.  \nPlease insert the number of men started with");
 
-var days = prompt("Please enter the number of days you had the bottles before gone.");
-var number = water / days;//to get the number of bottles you drink divide water by the number of days consumed
-var result = "You number of water you drink per day is " + number + " per day ";
+var bulbs = prompt("Please enter the number of bulbs you have.");
+var number = blubs / men;//to get the number of men needed divide bulbs by the number of men given
+var result = "You will need " + number + " of men to install the light bulbs ";
 alert(result);
