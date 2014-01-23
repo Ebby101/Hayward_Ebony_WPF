@@ -32,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="10" selection-start="1" selection-end="179" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+            <state line="4" column="10" selection-start="1" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -41,10 +41,8 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_Wacky/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="439" selection-end="439" vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="287">
-              <folding>
-                <element signature="e#0#46#0" expanded="false" />
-              </folding>
+            <state line="8" column="14" selection-start="439" selection-end="439" vertical-scroll-proportion="0.2764977" vertical-offset="0" max-vertical-offset="434">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,7 +50,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+            <state line="9" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -83,10 +81,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="224" />
-    <option name="width" value="1298" />
-    <option name="height" value="538" />
+    <option name="x" value="63" />
+    <option name="y" value="173" />
+    <option name="width" value="1287" />
+    <option name="height" value="531" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -251,6 +249,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -261,23 +267,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -323,15 +321,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="224" width="1298" height="538" extended-state="0" />
+    <frame x="63" y="173" width="1287" height="531" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16949153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17016317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39872068" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -340,9 +337,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -359,9 +357,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16949153" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -383,6 +381,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="1" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Wacky/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Wacky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="41" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
           <folding />
         </state>
@@ -390,59 +409,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="5" column="27" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="484" selection-end="484" vertical-scroll-proportion="0.23809524" vertical-offset="0" max-vertical-offset="441">
-          <folding />
-        </state>
+        <state line="7" column="14" selection-start="484" selection-end="484" vertical-scroll-proportion="0.23809524" vertical-offset="0" max-vertical-offset="441" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Industry/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.034013607" vertical-offset="0" max-vertical-offset="441">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="47" selection-end="47" vertical-scroll-proportion="0.034013607" vertical-offset="0" max-vertical-offset="441" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="100" selection-end="100" vertical-scroll-proportion="0.13605443" vertical-offset="0" max-vertical-offset="441">
-          <folding />
-        </state>
+        <state line="4" column="23" selection-start="100" selection-end="100" vertical-scroll-proportion="0.13605443" vertical-offset="0" max-vertical-offset="441" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="19" selection-start="44" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="4" column="19" selection-start="44" selection-end="436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="1" selection-end="179" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+        <state line="4" column="10" selection-start="1" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+        <state line="9" column="7" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Wacky/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="439" selection-end="439" vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="287">
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
+        <state line="8" column="14" selection-start="439" selection-end="439" vertical-scroll-proportion="0.2764977" vertical-offset="0" max-vertical-offset="434">
+          <folding />
         </state>
       </provider>
     </entry>
