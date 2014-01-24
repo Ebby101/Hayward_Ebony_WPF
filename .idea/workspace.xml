@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8163630-bf0b-4535-b5df-c5ae16a3f69c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_worksheet/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_worksheet/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/script.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/script.js" />
     </list>
     <ignored path="Hayward_Ebony_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +37,10 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="434">
-              <folding />
+            <state line="16" column="28" selection-start="333" selection-end="333" vertical-scroll-proportion="0.5529954" vertical-offset="0" max-vertical-offset="434">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,8 +72,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="297" />
+    <option name="x" value="25" />
+    <option name="y" value="22" />
     <option name="width" value="1509" />
     <option name="height" value="531" />
   </component>
@@ -325,7 +326,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="297" width="1509" height="531" extended-state="0" />
+    <frame x="25" y="22" width="1509" height="531" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -474,8 +475,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="434">
-          <folding />
+        <state line="16" column="28" selection-start="333" selection-end="333" vertical-scroll-proportion="0.5529954" vertical-offset="0" max-vertical-offset="434">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
